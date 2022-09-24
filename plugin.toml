@@ -1,7 +1,7 @@
 name = "black-iris"
 display-name = "Black Iris"
 description = "A dark theme based on blai30's Lotus."
-version = "1.0"
+version = "0.1.0"
 author = "Yukusai"
 repository = "p-yukusai/black-iris"
 themes = ["black-iris-theme.toml"]
