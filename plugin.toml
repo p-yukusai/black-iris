@@ -4,4 +4,4 @@ description = "A dark theme based on blai30's Lotus."
 version = "0.2.0"
 author = "Yukusai"
 repository = "p-yukusai/black-iris"
-themes = ["black-iris-theme.toml"]
+themes = ["black-iris.toml"]
