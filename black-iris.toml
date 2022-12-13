@@ -111,8 +111,7 @@ variable = "#FF478D"
 "terminal.yellow" = "#ffd866"  
 
 [ui]
-font-family = "SauceCodePro NF"
-font-size = 13
+font-size = 12
 header-height = 35
 status-height = 25
 tab-min-width = 100
