@@ -1,7 +1,20 @@
-[theme]
+#:schema https://raw.githubusercontent.com/lapce/lapce/master/extra/schemas/color-theme.json
+[color-theme]
 name = "Black Iris"
 
-[theme.base]
+[ui]
+font-family = ""
+font-size = 12
+header-height = 35
+status-height = 25
+tab-min-width = 100
+scroll-width = 10
+drop-shadow-width = 4
+preview-editor-width = 0
+hover-font-family = ""
+hover-font-size = 0
+
+[color-theme.base]
 white = "#fcfcfa"
 black = "#141414"
 grey = "#939293"
@@ -14,7 +27,7 @@ purple = "#C678DD"
 cyan = "#32929f"
 magenta = "#ab9df2"
 
-[theme.syntax]
+[color-theme.syntax]
 attribute = "$orange"
 builtinType = "$cyan"
 comment = "#5C6370"
@@ -47,7 +60,7 @@ variable = "#FF478D"
 "variable.other.member" = "$red"
 "variable.parameter" = "#FF478D"
 
-[theme.ui]
+[color-theme.ui]
 "activity.background" = "$black"
 "activity.current" = "#353535"
 "completion.background" = "$black"
@@ -109,14 +122,3 @@ variable = "#FF478D"
 "terminal.red" = "#ff6188"  
 "terminal.white" = "#fcfcfa"  
 "terminal.yellow" = "#ffd866"  
-
-[ui]
-font-size = 12
-header-height = 35
-status-height = 25
-tab-min-width = 100
-scroll-width = 10
-drop-shadow-width = 4
-preview-editor-width = 0
-hover-font-family = ""
-hover-font-size = 0
