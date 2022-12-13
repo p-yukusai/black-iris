@@ -4,5 +4,5 @@ description = "A dark theme with pastel colors"
 version = "1.0.0"
 author = "Yukusai"
 icon = "black-iris.png"
-repository = "p-yukusai/black-iris"
+repository = "https://github.com/p-yukusai/black-iris"
 themes = ["black-iris.toml"]
