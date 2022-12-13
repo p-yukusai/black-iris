@@ -2,7 +2,8 @@ name = "black-iris"
 version = "0.1.11"
 display-name = "Black Iris"
 description = "A dark theme with pastel colors"
-author = "Yukusai"
-icon = "black-iris.png"
-repository = "p-yukusai/black-iris"
+author = "p-yukusai"
+icon = "logo.png"
+repository = "https://github.com/p-yukusai/black-iris"
 color-themes = ["black-iris.toml"]
+
