@@ -1,7 +1,7 @@
 name = "black-iris"
 display-name = "Black Iris"
 description = "A dark theme with pastel colors"
-version = "0.2.0"
+version = "1.0.0"
 author = "Yukusai"
 icon = "black-iris.png"
 repository = "p-yukusai/black-iris"
